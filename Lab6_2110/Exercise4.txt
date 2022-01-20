@@ -1,0 +1,6 @@
+Multiples
+Enter a positive integer
+3
+Enter a positive integer
+6
+18, 15, 12, 9, 6, 3

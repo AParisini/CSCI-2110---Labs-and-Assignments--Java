@@ -1,0 +1,171 @@
+TEST I INTEGRS - MIN
+
+Enter how many items are in the list?
+14
+Are we sorting Strings or Integers?
+integers
+Enter values
+10
+20
+50
+-100
+88
+16
+22
+97
+5
+17
+268
+-192
+12
+37
+Do you want to sort Min or Max?
+Min
+Sorting complete. Total Swaps: 43
+-192 -100 5 10 12 16 17 20 22 37 50 88 97 268 
+
+TEST II INTEGERS - MAX
+
+Enter how many items are in the list?
+14
+Are we sorting Strings or Integers?
+integers
+Enter values
+10
+20
+50
+-100
+88
+16
+22
+97
+5
+17
+268
+-192
+12
+37
+Do you want to sort Min or Max?
+Max
+Sorting complete. Total Swaps: 48
+268 97 88 50 37 22 20 17 16 12 10 5 -100 -192
+
+TEST III Strings - MAX
+
+Enter how many items are in the list?
+7
+Are we sorting Strings or Integers?
+strings
+Enter values
+Raspberry
+Chocolate
+Pineapple
+Cinnamon
+Coffee
+Blueberry 
+Starwberry
+Do you want to sort Min or Max?
+Max
+Sorting complete. Total Swaps: 10
+Starwberry Raspberry Pineapple Coffee Cinnamon Chocolate Blueberry
+
+TEZT IV STRINGS - MIN
+
+Enter how many items are in the list?
+7 
+Are we sorting Strings or Integers?
+Strings
+Enter values
+Raspberry
+Chocolate
+Pineapple
+Cinnamon
+Coffee
+Blueberry 
+Starwberry
+Do you want to sort Min or Max?
+Min
+Sorting complete. Total Swaps: 11
+Blueberry Chocolate Cinnamon Coffee Pineapple Raspberry Starwberry
+
+
+
+
+EXTRA TESTS
+
+TEST I  INTEGERS - MIN
+
+Enter how many items are in the list?
+6
+Are we sorting String or Integers?
+integers
+Enter values
+34
+67
+89
+09
+12
+34
+Do you want to sort Min or Max?
+Min
+Sorting complete. Total Swaps: 8
+9 12 34 34 67 89 
+
+TEST II  INTEGERS - MAX
+
+Enter how many items are in the list?
+6
+Are we sorting String or Integers?
+integers
+Enter values
+24
+67
+21
+12
+56
+89
+Do you want to sort Min or Max?
+Max
+Sorting complete. Total Swaps: 4
+67 56 24 21 12 89 
+
+TEST III STRINGS - MIN
+
+Enter how many items are in the list?
+8
+Are we sorting Strings or Integers?
+Strings
+Enter values
+rookie
+dare
+buck
+romeo
+engineer
+brute
+prophet
+dutch
+Do you want to sort Min or Max?
+Min
+Sorting complete. Total Swaps: 17
+brute buck dare dutch engineer prophet romeo rookie
+
+
+TEST IV STRINGS - MAX
+
+Enter how many items are in the list?
+8
+Are we sorting Strings or Integers?
+Strings
+Enter values
+rookie
+dare
+buck
+romeo
+engineer
+brute
+prophet
+dutch
+Do you want to sort Min or Max?
+Max
+Sorting complete. Total Swaps: 8
+rookie romeo prophet engineer dare buck brute dutch 

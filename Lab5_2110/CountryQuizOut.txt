@@ -1,0 +1,123 @@
+TEST I : 
+
+Enter the filename to read from: CountryCapitals.txt 
+Welcome to the Country-Capital Quiz
+Play?
+Yes
+What is the capital of Chile? 
+Santiago
+Correct.
+Play?
+Yes
+What country has Kigali as the capital? 
+Rwanda
+Correct.
+Play?
+Yes
+What is the capital of Zimbabwe? 
+Harare
+Correct.
+Play?
+No
+Final Stats: 
+Questions Played: 3; Correct Answers: 3; Score: 1.0%
+
+TEST II: 
+
+Enter the filename to read from: CountryCapitals.txt
+Welcome to the Country-Capital Quiz
+Play?
+yes
+What country has Saint George's as the capital? 
+Saint
+Incorrect. The correct answer is Grenada 
+Play?
+Yes
+What is the capital of Senegal? 
+Senegal
+Incorrect. The correct answer is Dakar 
+Play?
+Yes
+What country has Belfast as the capital?
+Servia
+Incorrect. The correct answer is Northern Ireland 
+Play?
+Yes
+What is the capital of Yemen? 
+Yemen
+Incorrect. The correct answer is Sanaa 
+Play?
+Yes
+What is the capital of Congo, Republic of the? 
+Congo
+Incorrect. The correct answer is Brazzaville 
+Play?
+Yes
+What country has Bucharest as the capital? 
+Romania
+Correct.
+Play?
+Yes
+What country has Banjul as the capital? 
+Banjul
+Incorrect. The correct answer is Gambia 
+Play?
+Yes
+What is the capital of Honduras? 
+Honduras
+Incorrect. The correct answer is Tegucigalpa 
+Play?
+Yes
+What is the capital of United Arab Emirates? 
+Dubai
+Incorrect. The correct answer is Abu Dhabi 
+Play?
+Yes
+What country has Bishkek as the capital? 
+Bishkek
+Incorrect. The correct answer is Kyrgyzstan 
+Play?
+Yes
+What is the capital of Grenada? 
+Grana
+Incorrect. The correct answer is Saint George's 
+Play?
+Yes
+What country has Rangoon (Yangon) as the capital? 
+Rangoon
+Incorrect. The correct answer is Myanmar (Burma) 
+Play?
+Yes
+What country has Malabo as the capital? 
+malaboa
+Incorrect. The correct answer is Equatorial Guinea 
+Play?
+Yes
+What is the capital of Sweden? 
+Oslo
+Incorrect. The correct answer is Stockholm 
+Play?
+Yes
+What is the capital of Honduras? 
+Cuba
+Incorrect. The correct answer is Tegucigalpa 
+Play?
+Yes
+What is the capital of Austria? 
+Vienna
+Correct.
+Play?
+Yes
+What country has Rabat as the capital? 
+Dubai
+Incorrect. The correct answer is Morocco 
+Play?
+Yes
+What country has Bangui as the capital? 
+Bangui
+Incorrect. The correct answer is Central African Republic 
+Play?
+No
+Final Stats: 
+Questions played: 18; Correct answers: 2; Score: 0.11%
+

@@ -1,0 +1,95 @@
+NEGATIVE RETURN *****
+
+Enter int or '0': 
+1
+Duplicate key. Can't insert
+Enter int or '0':
+2
+Enter int or '0':
+3
+Enter int or '0':
+4
+Enter int or '0':
+5
+Enter int or '0':
+6
+Enter int or '0':
+7
+Enter int or '0':
+8
+Enter int or '0':
+9
+Enter int or '0':
+0
+The max data value in the BST is: 9
+The min data value in the BST is: 1
+What key would you like to search for?
+10
+Key not Found
+
+POSITIVE RETURN *****
+
+Enter int or '0': 
+2
+Duplicate key. Can't insert
+Enter int or '0':
+4
+Enter int or '0':
+6
+Enter int or '0':
+8
+Enter int or '0':
+10
+Enter int or '0':
+12
+Enter int or '0':
+14
+Enter int or '0':
+16
+Enter int or '0':
+18
+Enter int or '0':
+20
+Enter int or '0':
+19
+Enter int or '0':
+18
+Duplicate key. Can't insert
+Enter int or '0':
+13
+Enter int or '0':
+5
+Enter int or '0':
+0
+The max data value in the BST is: 20
+The min data value in the BST is: 2
+What key would you like to search for?
+5
+Found!
+
+TRIPLE DIGITS POSITIVE RETURN *****
+
+Enter int or '0':
+100
+Duplicate key. Can't insert
+Enter int or '0':
+200
+Enter int or '0':
+300
+Enter int or '0':
+150
+Enter int or '0':
+250
+Enter int or '0':
+999
+Enter int or '0':
+897
+Enter int or '0':
+101
+Enter int or '0':
+0
+The max data value in the BST is: 999
+The min data value in the BST is: 100
+What key would you like to search for?
+897
+Found!

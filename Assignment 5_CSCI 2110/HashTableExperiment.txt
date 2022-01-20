@@ -1,0 +1,41 @@
+TEST I
+
+Enter the hash table size: 20
+Enter the number of keys: 1000
+Statistics: 
+Table size: 20
+Number of Keys: 1000     
+Load factor: 50.00       
+Number of collisions: 980
+Longest list: 65
+
+TEST II 
+
+Statistics: 
+Table size: 30
+Number of Keys: 100     
+Load factor: 3.33       
+Number of collisions: 74
+Longest list: 8
+
+TEST III
+
+After the keys are hashed
+0:
+1:
+2: 552-->
+3:
+4: 284-->824-->274-->704-->
+5:
+6:
+7: 727-->
+8: 58-->958-->658-->
+9: 509-->
+Statistics:
+Table size: 10
+Number of Keys: 10
+Load factor: 1.00
+Number of collisions: 5
+Longest list: 4
+
+

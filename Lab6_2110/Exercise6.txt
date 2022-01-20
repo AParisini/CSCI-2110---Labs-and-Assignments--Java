@@ -1,0 +1,4 @@
+Squares
+Enter a positive integer
+4
+30

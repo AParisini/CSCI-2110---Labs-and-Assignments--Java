@@ -1,0 +1,8 @@
+Write Vertical
+Enter a positive integer
+50110
+5
+0
+1
+1
+0

@@ -1,0 +1,14 @@
+Factorial of a number
+Enter a positive integer
+3
+6
+Fibonacci numbers
+4
+The first 4 numbers in the fibonacci series are 
+0, 1, 1, 2,
+Power of a number
+Enter a positive integer x:
+5
+Enter another positive integer: 
+2
+5 to the power of 2 is 25

@@ -1,0 +1,40 @@
+TEST I 
+
+Login: 
+icrane
+Password: 
+qwerty123
+Login successful     
+Welcome Ichabod Crane
+
+TEST II
+
+Login: 
+cnor
+Password: 
+power332*
+Either the username or password is incorrect. You have 2 more attempts. 
+Login: 
+cnorris
+Password: 
+power332*
+Login successful    
+Welcome Chuck Norris
+
+TEST III
+
+Login: 
+bbones
+Password: 
+user
+Either the username or password is incorrect. You have 2 more attempts. 
+Login: 
+bbnoes
+Password: 
+user
+Either the username or password is incorrect. You have 1 more attempts. 
+Login: 
+bbones
+Password: 
+power332*
+Sorry. Incorrect login. Please contact the system administrator. 

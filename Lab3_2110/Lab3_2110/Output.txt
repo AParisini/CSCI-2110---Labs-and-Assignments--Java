@@ -1,0 +1,52 @@
+Exercise 1 (Point)
+
+INPUT:
+
+2 3
+4.5 6.5
+Thunder Lightning
+
+OUTPUT:
+XPOS: 2  YPOS: 3
+XPOS: 4.50  YPOS: 6.50
+XPOS: Thunder YPOS: Lightning
+
+Exercise 2 (GenericStack)
+
+INPUT: 
+A
+S
+D
+Quit || quit
+
+1
+2
+3
+-1
+
+OUTPUT:
+
+D
+S
+A
+
+3
+2
+1
+
+
+Exercise 3 (Exercise 3)
+
+INPUT:
+Names.txt
+
+OUTPUT:
+
+Crane 
+Bones 
+Pokemon 
+Pokemon 
+Dude 
+Chaser 
+Norris 
+Dude
